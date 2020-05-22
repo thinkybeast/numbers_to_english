@@ -89,7 +89,7 @@ The endpoint is available on port 3000 by default.
 
 To run the endpoint in production:
 
-`npm start`
+`npm run build && npm start`
 
 The endpoint is available in production on port 8080 by default.
 
