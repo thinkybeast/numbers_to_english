@@ -4,6 +4,8 @@ Number to English is a simple-to-use API endpoint that converts a number to its 
 
 Number to English accepts positive and negative integers between **-9007199254740991** and **9007199254740991**.
 
+**Test it out at:** http://num-to-english-dev.us-west-1.elasticbeanstalk.com/v1/num_to_english
+
 ## Usage
 
 ### Request
@@ -89,7 +91,7 @@ To run the endpoint in production:
 
 `npm start`
 
-The endpoint is available in production on port 80 by default.
+The endpoint is available in production on port 8080 by default.
 
 ## Testing
 
