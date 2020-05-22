@@ -1,4 +1,7 @@
 node_modules
 notes
-assignment.js
-notes.js
+
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml
